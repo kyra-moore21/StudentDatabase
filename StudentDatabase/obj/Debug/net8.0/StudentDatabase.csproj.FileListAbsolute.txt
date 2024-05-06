@@ -1,0 +1,14 @@
+C:\Users\kyram\source\repos\StudentDatabase\StudentDatabase\obj\Debug\net8.0\StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyram\source\repos\StudentDatabase\StudentDatabase\obj\Debug\net8.0\StudentDatabase.AssemblyInfoInputs.cache
+C:\Users\kyram\source\repos\StudentDatabase\StudentDatabase\obj\Debug\net8.0\StudentDatabase.AssemblyInfo.cs
+C:\Users\kyram\source\repos\StudentDatabase\StudentDatabase\obj\Debug\net8.0\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\kyram\source\repos\StudentDatabase\StudentDatabase\bin\Debug\net8.0\StudentDatabase.exe
+C:\Users\kyram\source\repos\StudentDatabase\StudentDatabase\bin\Debug\net8.0\StudentDatabase.deps.json
+C:\Users\kyram\source\repos\StudentDatabase\StudentDatabase\bin\Debug\net8.0\StudentDatabase.runtimeconfig.json
+C:\Users\kyram\source\repos\StudentDatabase\StudentDatabase\bin\Debug\net8.0\StudentDatabase.dll
+C:\Users\kyram\source\repos\StudentDatabase\StudentDatabase\bin\Debug\net8.0\StudentDatabase.pdb
+C:\Users\kyram\source\repos\StudentDatabase\StudentDatabase\obj\Debug\net8.0\StudentDatabase.dll
+C:\Users\kyram\source\repos\StudentDatabase\StudentDatabase\obj\Debug\net8.0\refint\StudentDatabase.dll
+C:\Users\kyram\source\repos\StudentDatabase\StudentDatabase\obj\Debug\net8.0\StudentDatabase.pdb
+C:\Users\kyram\source\repos\StudentDatabase\StudentDatabase\obj\Debug\net8.0\StudentDatabase.genruntimeconfig.cache
+C:\Users\kyram\source\repos\StudentDatabase\StudentDatabase\obj\Debug\net8.0\ref\StudentDatabase.dll
